@@ -58,8 +58,8 @@ Currently, I focus on building **practical projects** related to AI, game develo
 ---
 
 ## 📫 Contact
-- 📧 Email: **[your email]**  
-- 🌐 LinkedIn / Facebook: **[your link]**  
+- 📧 Email: **NguyenToanThang15122005@gmail.com**  
+- 🌐 LinkedIn / Facebook: **...**  
 - 💬 GitHub: https://github.com/NguyenToanThang-kotaru  
 
 ---
