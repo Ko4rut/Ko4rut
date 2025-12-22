@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm NguyenToanThang
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering;Game+AI+Enthusiast&center=true&width=500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering&center=true&width=500)](https://git.io/typing-svg)
 
 🎓 **Student / Developer**  
 💻 **Main Languages:** Python · Java · C#  
