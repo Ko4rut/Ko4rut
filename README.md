@@ -3,6 +3,7 @@
 # 👋 Hi there, I'm NguyenToanThang
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering&center=true&width=500)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"/>
 
 🎓 **Student / Developer**  
 💻 **Main Languages:** Python · Java · C#  
