@@ -39,6 +39,10 @@ Currently, I focus on building **practical projects** related to AI, game develo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenToanThang-kotaru&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5)
 
+![Profile views](https://komarev.com/ghpvc/?username=NguyenToanThang-kotaru&color=blue)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NguyenToanThang-kotaru)
+
 </div>
 
 ---
