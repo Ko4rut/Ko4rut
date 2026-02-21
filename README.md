@@ -37,11 +37,17 @@ Currently, I focus on building **practical projects** related to AI, game develo
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenToanThang-kotaru&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenToanThang-kotaru&layout=compact&theme=algolia)
 
----
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horus031&show_icons=true&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ## 📌 Projects
 - ♟️ **Xiangqi AI** – Python, Supervised Learning, Deep Learning  
