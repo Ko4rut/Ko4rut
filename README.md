@@ -38,8 +38,7 @@ Currently, I focus on building **practical projects** related to AI, game develo
 
 ## 📊 GitHub Stats
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenToanThang-kotaru&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenToanThang-kotaru)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenToanThang-kotaru&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5)
 
