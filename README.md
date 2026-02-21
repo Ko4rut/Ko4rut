@@ -41,7 +41,7 @@ Currently, I focus on building **practical projects** related to AI, game develo
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horus031&show_icons=true&theme=dark" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenToanThang&show_icons=true&theme=dark" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=dark" />
