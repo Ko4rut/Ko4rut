@@ -1,55 +1,69 @@
-<div align="center">
-
-# 👋 Hello, I'm Nguyen Toan Thang
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineer;Backend+Enthusiast&center=true&width=500)](https://git.io/typing-svg)
-
-🎓 Software Engineering Student  
-🚀 Passionate about Artificial Intelligence & System Design  
-💡 Building practical, scalable and meaningful software  
-
-</div>
+<!-- ===================== HEADER ===================== -->
+# Nguyen Toan Thang (Ko4rut)
+**`Backend Developer · AI Engineering Enthusiast · System Design Learner`**
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a Software Engineering student with a strong interest in **Artificial Intelligence, Backend Development, and System Architecture**.
+I am a Software Engineering student with a strong focus on **Backend Development and Artificial Intelligence**.
 
-I focus on building real-world projects that strengthen:
-- Problem-solving skills  
-- Data structures & algorithms  
-- Backend system design  
-- AI model implementation  
+My primary goal is to build a solid foundation in:
+- Data Structures & Algorithms
+- Scalable Backend Architectures
+- Distributed Systems
+- Machine Learning Engineering
 
-My goal is to continuously improve as a developer and build impactful software products.
+I am transitioning from academic-level implementations to **production-oriented backend systems**, with increasing focus on performance, scalability, and clean architecture.
+
+Long-term objective:  
+To become an **AI Engineer specializing in intelligent systems and backend AI infrastructure.**
 
 ---
 
-## 🛠️ Technical Skills
+## Core Technical Stack
 
-### 💻 Programming Languages
+### Programming
 - Python
 - Java
 - C#
 - C++
 
-### ⚙️ Frameworks & Tools
-- React Native  
-- FastAPI  
-- MySQL / SQLite  
-- Git & GitHub  
-- Tkinter / Pygame  
+### Backend & Infrastructure
+- FastAPI
+- MySQL / SQLite
+- RESTful API Design
+- Docker (Learning & Deployment)
+- AWS (EC2, IAM, CLI)
 
-### 🧠 Interests
-- Artificial Intelligence  
-- Deep Learning  
-- Game Development  
-- Backend Systems  
+### AI & Machine Learning
+- Supervised Learning
+- Reinforcement Learning (Q-Learning)
+- Neural Networks (Basic Implementation)
+- Model Training & Evaluation
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
+
+### ♟️ Xiangqi AI
+- Python
+- Deep Learning & Supervised Learning
+- Game-state evaluation & decision logic
+
+### 📊 Backend API Systems
+- RESTful API using FastAPI
+- Database integration with MySQL
+- Authentication & CRUD operations
+
+### 🎵 Music Streaming + Real-time Chat (Academic Project)
+- System Architecture Planning
+- Database Modeling
+- AI Recommendation Design
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -60,43 +74,22 @@ My goal is to continuously improve as a developer and build impactful software p
 
 ---
 
-## 📌 Featured Projects
+## Current Focus
 
-### ♟️ Xiangqi AI
-- Python
-- Supervised Learning & Deep Learning
-- AI model training and evaluation
-
-### 🏸 Badminton Store Management System
-- Java & MySQL
-- CRUD operations
-- Database design & business logic implementation
-
-### 🌐 Web & Mobile Applications
-- React Native
-- Backend API integration
-- Authentication & data management
+- Improving algorithmic thinking
+- Deepening backend system knowledge
+- Exploring AI model optimization
+- Learning cloud-native architecture
 
 ---
 
-## 🎯 Career Goals
+## Contact
 
-- Master Data Structures & Algorithms  
-- Develop advanced AI / Deep Learning systems  
-- Design scalable backend architectures  
-- Contribute to open-source projects  
+Email: NguyenToanThang15122005@gmail.com  
+GitHub: https://github.com/Ko4rut  
 
 ---
 
-## 📫 Contact
-
-📧 Email: NguyenToanThang15122005@gmail.com  
-💻 GitHub: https://github.com/Ko4rut  
-
----
-
-<div align="center">
-
-⭐ If you find my work interesting, feel free to star my repositories!
-
-</div>
+<p align="center">
+  <sub>Engineering intelligent systems with scalable foundations.</sub>
+</p>
