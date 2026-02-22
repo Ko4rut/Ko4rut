@@ -1,77 +1,102 @@
 <div align="center">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300"/> -->
-</div>
 
-<div align="center">
+# 👋 Hello, I'm Nguyen Toan Thang
 
-# 👋 Hi there, I'm NguyenToanThang
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineer;Backend+Enthusiast&center=true&width=500)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering&center=true&width=500)](https://git.io/typing-svg)
-
-🎓 **Student / Developer**  
-💻 **Main Languages:** Python · Java · C#  
-🚀 **Interests:** Artificial Intelligence · Game Development · Web & Mobile Apps  
+🎓 Software Engineering Student  
+🚀 Passionate about Artificial Intelligence & System Design  
+💡 Building practical, scalable and meaningful software  
 
 </div>
+
 ---
 
 ## 🧑‍💻 About Me
-I'm a student and developer with a strong passion for **software development and artificial intelligence**.  
-Currently, I focus on building **practical projects** related to AI, game development, and backend systems, while continuously improving my **problem-solving skills and system design mindset**.
+
+I am a Software Engineering student with a strong interest in **Artificial Intelligence, Backend Development, and System Architecture**.
+
+I focus on building real-world projects that strengthen:
+- Problem-solving skills  
+- Data structures & algorithms  
+- Backend system design  
+- AI model implementation  
+
+My goal is to continuously improve as a developer and build impactful software products.
 
 ---
 
-## 🛠️ Skills
-**Languages:**  
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+## 🛠️ Technical Skills
 
-**Frameworks & Tools:**  
-- Tkinter, Pygame  
+### 💻 Programming Languages
+- Python
+- Java
+- C#
+- C++
+
+### ⚙️ Frameworks & Tools
 - React Native  
-- MySQL, SQLite  
+- FastAPI  
+- MySQL / SQLite  
 - Git & GitHub  
+- Tkinter / Pygame  
+
+### 🧠 Interests
+- Artificial Intelligence  
+- Deep Learning  
+- Game Development  
+- Backend Systems  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenToanThang&show_icons=true&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 📌 Projects
-- ♟️ **Xiangqi AI** – Python, Supervised Learning, Deep Learning  
-- 📚 **Badminton Store Management System** – Java & MySQL  
-- 🌐 **Web & Mobile Applications** – Various small to medium projects  
+<img src="https://github-readme-stats-delta-henna-38.vercel.app/api?username=Ko4rut&show_icons=true&theme=dark" height="170"/>
+<img src="https://github-readme-stats-delta-henna-38.vercel.app/api/top-langs/?username=Ko4rut&layout=compact&theme=dark" height="170"/>
+
+</div>
 
 ---
 
-## 🎯 Goals
-- Strengthen core programming fundamentals  
-- Research and build AI / Deep Learning models  
-- Develop practical and impactful software products  
+## 📌 Featured Projects
+
+### ♟️ Xiangqi AI
+- Python
+- Supervised Learning & Deep Learning
+- AI model training and evaluation
+
+### 🏸 Badminton Store Management System
+- Java & MySQL
+- CRUD operations
+- Database design & business logic implementation
+
+### 🌐 Web & Mobile Applications
+- React Native
+- Backend API integration
+- Authentication & data management
+
+---
+
+## 🎯 Career Goals
+
+- Master Data Structures & Algorithms  
+- Develop advanced AI / Deep Learning systems  
+- Design scalable backend architectures  
+- Contribute to open-source projects  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **NguyenToanThang15122005@gmail.com**  
-- 🌐 LinkedIn / Facebook: **...**  
-- 💬 GitHub: https://github.com/NguyenToanThang-kotaru  
+
+📧 Email: NguyenToanThang15122005@gmail.com  
+💻 GitHub: https://github.com/Ko4rut  
 
 ---
 
 <div align="center">
 
-⭐ *If you find my projects interesting, feel free to give them a star!*  
+⭐ If you find my work interesting, feel free to star my repositories!
 
 </div>
