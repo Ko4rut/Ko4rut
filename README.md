@@ -38,7 +38,7 @@ To become an **AI Engineer specializing in intelligent systems and backend AI in
 
 ### AI & Machine Learning
 - Supervised Learning
-- Reinforcement Learning (Q-Learning)
+- Reinforcement Learning (Learner)
 - Neural Networks (Basic Implementation)
 - Model Training & Evaluation
 
@@ -51,17 +51,19 @@ To become an **AI Engineer specializing in intelligent systems and backend AI in
 - Deep Learning & Supervised Learning
 - Game-state evaluation & decision logic
 
-### 📊 Backend API Systems
+### Backend API Systems
 - RESTful API using FastAPI
 - Database integration with MySQL
 - Authentication & CRUD operations
 
-### 🎵 Music Streaming + Real-time Chat (Academic Project)
+### Smart Tracking Bus
 - System Architecture Planning
 - Database Modeling
-- AI Recommendation Design
+- Tracking - Real time
 
 ---
+
+
 
 ## GitHub Statistics
 
