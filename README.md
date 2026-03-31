@@ -69,8 +69,8 @@ To become an **AI Engineer specializing in intelligent systems and backend AI in
 
 <div align="center">
 
-<img src="https://github-readme-stats-delta-henna-38.vercel.app/api?username=Ko4rut&show_icons=true&theme=dark" height="170"/>
-<img src="https://github-readme-stats-delta-henna-38.vercel.app/api/top-langs/?username=Ko4rut&layout=compact&theme=dark" height="170"/>
+<img src="https://github-readme-stats-nguyentoanthang-kotarus-projects.vercel.app/api?username=Ko4rut&show_icons=true&theme=dark" height="170"/>
+<img src="https://github-readme-stats-nguyentoanthang-kotarus-projects.vercel.app/api/top-langs/?username=Ko4rut&layout=compact&theme=dark" height="170"/>
 
 </div>
 
