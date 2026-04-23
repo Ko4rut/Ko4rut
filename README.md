@@ -89,6 +89,7 @@ To become an **AI Engineer specializing in intelligent systems and backend AI in
 
 Email: NguyenToanThang15122005@gmail.com  
 GitHub: https://github.com/Ko4rut  
+Linkedin: https://www.linkedin.com/in/nguyen-toan-thang-672972379/
 
 ---
 
